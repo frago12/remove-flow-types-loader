@@ -15,7 +15,7 @@
   "author": "Conor Hastings",
   "license": "MIT",
   "dependencies": {
-    "flow-remove-types": "^1.0.0",
-    "loader-utils": "^1.1.0"
+    "flow-remove-types": "^2.123.0",
+    "loader-utils": "^2.0.0"
   }
 }
